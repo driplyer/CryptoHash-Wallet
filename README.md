@@ -20,3 +20,6 @@ Ce projet utilise **Gradle 9.5.0**, ce qui impose l'utilisation d'une version sp
 5. Sélectionnez **JetBrains Runtime 21** (ou téléchargez/sélectionnez votre installation locale de JDK 21).
 6. Cliquez sur **Apply**, puis sur **OK**.
 7. Lancez la synchronisation en cliquant sur le bouton **Sync Project with Gradle Files** (l'icône d'éléphant 🐘) dans la barre d'outils supérieure.
+
+
+<img width="4008" height="2740" alt="screens" src="https://github.com/user-attachments/assets/86ec7ad8-4833-4643-938e-6d5f04be36fa" />
